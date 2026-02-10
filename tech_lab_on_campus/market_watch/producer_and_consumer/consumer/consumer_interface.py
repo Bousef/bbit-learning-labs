@@ -20,6 +20,7 @@ class mqConsumerInterface:
         # Save parameters to class variables
 
         # Call setupRMQConnection
+
         pass
 
     def setupRMQConnection(self) -> None:
